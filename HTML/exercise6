@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Html - Exercise 6</title>
+    <meta charset="utf-8">
+  </head>
+  <body>
+  <div style="text-align:center">
+    <h1>Άσκηση 6</h1>
+    <img src="html5.jpg" style="width:225px; height:225px; border-width:0px" alt=""/><br><br>
+    <img src="css3.jpg" style="width:223px; height:223px; border-width:0px" alt=""/>
+  </div>
+
+  </body>
+</html>
