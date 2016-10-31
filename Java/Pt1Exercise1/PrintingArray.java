@@ -1,7 +1,7 @@
 /*
  * Part 1 Exercise 1 from the Python tutorial on:
  * https://codeandwork.github.io/courses/prep/pythonTutorial1.html
- *
+ 
  * Exercise is to be written in Java.
  */
 import java.util.Arrays;
