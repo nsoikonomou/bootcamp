@@ -4,7 +4,7 @@
 
  * Exercise is to be written in Java.
  */
-package part1.exercise1;
+
 
 import java.util.Arrays;
 
