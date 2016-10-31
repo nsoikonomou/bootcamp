@@ -9,7 +9,7 @@ import java.util.Arrays;
 
 public class PrintingArray {
 
-    // Declare and initialize a default static array of length: 9.
+    // Declare and initialize a default static array of integers of length: 9.
     static int[] src = new int[9];
 
     public static void main(String args[]) {
