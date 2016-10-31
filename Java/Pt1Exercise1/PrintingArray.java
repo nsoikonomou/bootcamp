@@ -1,9 +1,11 @@
 /*
- * Part 1 Exercise 1 from the Python tutorial on:
+ * Exercise 1 from the Python tutorial Part 1 on:
  * https://codeandwork.github.io/courses/prep/pythonTutorial1.html
- 
+
  * Exercise is to be written in Java.
  */
+package part1.exercise1;
+
 import java.util.Arrays;
 
 public class PrintingArray {
