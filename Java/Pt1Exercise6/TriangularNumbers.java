@@ -1,16 +1,25 @@
+/*
+ * Exercise 5 from the Python tutorial Part 1 on:
+ * https://codeandwork.github.io/courses/prep/pythonTutorial1.html
 
-import java.util.Scanner;
+ * Exercise must be written in Java.
+ */
 
-class TriangularNumbers{
-	public static void main(String args[]){
+public class Harmonic {
 
-		Scanner scanner = new Scanner(System.in);
-		System.out.print("Enter number of triangle numbers: ");
-		int numbers = scanner.nextInt();
-
-		for (int i = 1; i <= numbers; i++){
-			System.out.print(i*(i+1)/2 + " ");
-		}
-		System.out.println();
-	}
+    public static void main(String args[]) {
+        double sum = 1.0;
+        for (int i = 1; i <= 5; i++) {
+            // Print the first term of the harmonic sequence.
+            if (i == 1) {
+                System.out.println((int) sum);
+            }
+            // Compute and print the remaining four terms of the harmonic sequence.
+            if (i > 1) {
+                double step = (double) 1 / i;
+                sum = sum + step;
+                System.out.println(sum);
+            }
+        }
+    }
 }
