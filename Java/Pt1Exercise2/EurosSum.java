@@ -2,7 +2,7 @@
  * Exercise 2 from the Python tutorial Part 1 on:
  * https://codeandwork.github.io/courses/prep/pythonTutorial1.html
 
- * Exercise is to be written in Java.
+ * Exercise must be written in Java.
  */
 
 import java.util.Scanner;
@@ -10,6 +10,7 @@ import java.util.Scanner;
 public class EurosSum {
 
     public static void main(String args[]) {
+        // The variable scanner is used to get the user's input.
         Scanner scanner = new Scanner(System.in);
 
         // Declare and initialize an array of Euro banknotes and coins.
@@ -26,7 +27,7 @@ public class EurosSum {
             } else {
                 System.out.print("Enter number of " + euros[i] + " euro coins: ");
             }
-            // Read the user input, i.e. number of Euro banknotes and coins.
+            // Read the user's input, i.e. number of Euro banknotes and coins.
             numNotesCoins[i] = scanner.nextInt();
         }
 
