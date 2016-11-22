@@ -1,3 +1,8 @@
+"""
+ Exercise 2 from the Python tutorial Part 1 on:
+ https://codeandwork.github.io/courses/prep/pythonTutorial1.html
+"""
+
 num50e = int(input("Enter number of 50 euro banknotes:"))
 num20e = int(input("Enter number of 20 euro banknotes:"))
 num10e = int(input("Enter number of 10 euro banknotes:"))
