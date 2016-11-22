@@ -1,3 +1,8 @@
+"""
+ Exercise 5 from the Python tutorial Part 1 on:
+ https://codeandwork.github.io/courses/prep/pythonTutorial1.html
+"""
+
 sum = 1
 for n in range(1, 6):
     if n == 1:
