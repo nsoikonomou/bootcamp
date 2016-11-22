@@ -1,3 +1,8 @@
+"""
+ Exercise 4 from the Python tutorial Part 1 on:
+ https://codeandwork.github.io/courses/prep/pythonTutorial1.html
+"""
+
 import math
 
 print("Give the length of each side in order to compute the area of a triangle.")
