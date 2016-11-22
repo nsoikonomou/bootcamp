@@ -1,5 +1,3 @@
-package part02.exercise01;
-
 /*
  * Exercise 1 from the Python tutorial Part 2 on:
  * https://codeandwork.github.io/courses/prep/pythonTutorial2.html
